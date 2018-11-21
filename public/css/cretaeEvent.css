@@ -1,0 +1,26 @@
+body{
+    margin:0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:1rem;
+    font-weight:normal;
+    line-height:1.5;
+    color:#333;
+    overflow-x:hidden;
+}
+.form{
+    /*padding: 0%;*/
+    background-color: white;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 2%;
+}
+.form-group label{
+    font-size: 1.7rem;
+}
+.form-control{
+    font-size: 1.6rem;
+}
+.btn:hover {
+    background-color: #FEFFFF;
+    color: white}
